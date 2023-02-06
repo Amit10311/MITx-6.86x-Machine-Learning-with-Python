@@ -3,7 +3,7 @@
 
 [![MITx: Statistics and Data Science MicroMasters](https://img.shields.io/badge/MITx-Statistics%20and%20Data%20Science%20MicroMasters-blue)](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 
-> These are my notes taken during the course **MITx 6.86x** *"Machine Learning with Python: From Linear Models to Deep Learning"*, in Sept-Dec 2021.
+> These are my notes taken during the course **MITx 6.86x** *"Machine Learning with Python: From Linear Models to Deep Learning"*, in Feb-May 2023.
 
 ### Unit 1 | **Linear Classifiers and Generalizations**
 * Lecture 01. Introduction to Machine Learning 
