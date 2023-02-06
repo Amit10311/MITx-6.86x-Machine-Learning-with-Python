@@ -14,11 +14,12 @@
 1. Project 1: Automatic Review Analyzer
 
 ### Unit 2 | **Nonlinear Classification, Linear regression, Collaborative Filtering**
-* Lecture 05. Linear Regression 9 of 9 possible points (9/9) 100%
+* Lecture 05. Linear Regression 
 * Lecture 06. Nonlinear Classification 
 * Lecture 07. Recommender Systems 
 
 > Project 2: Digit recognition (part 1)
+
 > Midterm: Midterm Exam
 
 ### Unit 3 | **Neural networks**
