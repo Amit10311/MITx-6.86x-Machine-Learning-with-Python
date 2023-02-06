@@ -1,4 +1,5 @@
-# MITx-6.86x-Machine-Learning-with-Python From Linear Models to Deep Learning
+# MITx-6.86x-Machine-Learning-with-Python 
+Machine Learning with Python | Linear Models to Deep Learning
 
 
 [![MITx: Statistics and Data Science MicroMasters](https://img.shields.io/badge/MITx-Statistics%20and%20Data%20Science%20MicroMasters-blue)](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
