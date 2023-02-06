@@ -19,7 +19,7 @@
 * Lecture 07. Recommender Systems 
 
 > Project 2: Digit recognition (part 1)
-
+> 
 > Midterm: Midterm Exam
 
 ### Unit 3 | **Neural networks**
