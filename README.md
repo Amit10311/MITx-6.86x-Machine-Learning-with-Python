@@ -48,4 +48,3 @@
 Link: https://learning.edx.org/course/course-v1:MITx+6.86x+1T2023/home
 
 __Note__: _This repo includes code prepared by the course staff._  
-__Note__: _Please inform me if I forgot to remove some answers to the graded problems._
