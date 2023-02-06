@@ -12,7 +12,7 @@ Machine Learning with Python | Linear Models to Deep Learning
 * Lecture 03. Hinge loss, Margin boundaries and Regularization 
 * Lecture 04. Linear Classification and Generalization  
    
-1. Project 1: Automatic Review Analyzer
+>  Project 1: Automatic Review Analyzer
 
 #### Unit 2 | **Nonlinear Classification, Linear regression, Collaborative Filtering**
 * Lecture 05. Linear Regression 
