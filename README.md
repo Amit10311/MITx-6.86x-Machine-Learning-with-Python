@@ -44,6 +44,7 @@
 * Lecture 18. Reinforcement Learning 2
 * Lecture 19: Applications: Natural Language Processing
 
+> Project: Project 5: Text-Based Game
   
 ---
   
