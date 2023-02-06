@@ -6,7 +6,7 @@ Machine Learning with Python | Linear Models to Deep Learning
 
 > These are my notes taken during the course **MITx 6.86x** *"Machine Learning with Python: From Linear Models to Deep Learning"*, in Feb-May 2023.
 
-### Unit 1 | **Linear Classifiers and Generalizations**
+#### Unit 1 | **Linear Classifiers and Generalizations**
 * Lecture 01. Introduction to Machine Learning 
 * Lecture 02. Linear Classifier and Perceptron 
 * Lecture 03. Hinge loss, Margin boundaries and Regularization 
@@ -14,7 +14,7 @@ Machine Learning with Python | Linear Models to Deep Learning
    
 1. Project 1: Automatic Review Analyzer
 
-### Unit 2 | **Nonlinear Classification, Linear regression, Collaborative Filtering**
+#### Unit 2 | **Nonlinear Classification, Linear regression, Collaborative Filtering**
 * Lecture 05. Linear Regression 
 * Lecture 06. Nonlinear Classification 
 * Lecture 07. Recommender Systems 
@@ -23,7 +23,7 @@ Machine Learning with Python | Linear Models to Deep Learning
 > 
 > Midterm: Midterm Exam
 
-### Unit 3 | **Neural networks**
+#### Unit 3 | **Neural networks**
 * Lecture 08. Introduction to Feedforward Neural Networks
 * Lecture 09. Feedforward Neural Networks, Back Propagation, and Stochastic Gradient Descent (SGD)
 * Lecture 10. Recurrent Neural Networks 1
@@ -32,7 +32,7 @@ Machine Learning with Python | Linear Models to Deep Learning
 
 > Project 3: Digit recognition (part 2)
   
-### Unit 4 | **Un-supervised Learning**
+#### Unit 4 | **Un-supervised Learning**
 * Lecture 13. Clustering 1
 * Lecture 14. Clustering 2
 * Lecture 15. Generative Models
@@ -40,7 +40,7 @@ Machine Learning with Python | Linear Models to Deep Learning
 
 > Project 4: Collaborative Filtering via Gaussian Mixtures
 
-### Unit 5 | **Re-inforcement Learning**
+#### Unit 5 | **Re-inforcement Learning**
 * Lecture 17. Reinforcement Learning 1
 * Lecture 18. Reinforcement Learning 2
 * Lecture 19: Applications: Natural Language Processing
