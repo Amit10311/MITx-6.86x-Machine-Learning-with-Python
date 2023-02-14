@@ -2,8 +2,7 @@
 [[MITx 6.86x Notes Index]](https://github.com/Amit10311/MITx-6.86x-Machine-Learning-with-Python) 
 ## Course Introduction
 
-There are lots and lots of applications out there, but what's so interesting about it is that, in terms of algorithms, there is a relatively small toolkit of algorithms you need to learn to understand how these different applications can work so nicely and be integrated in our daily life.
-
+There is a relatively small toolkit of algorithms you need to learn to understand how these different applications can work so nicely and be integrated in our daily life.
 
 The course covers these 3 topics
 
