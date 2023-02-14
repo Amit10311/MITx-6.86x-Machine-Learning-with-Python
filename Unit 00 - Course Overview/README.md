@@ -10,5 +10,6 @@
 
 `$ anaconda-navigator`
 
-Install Packages in Environment 
+* Install Packages in Environment 
+
 `$ conda install numpy`
