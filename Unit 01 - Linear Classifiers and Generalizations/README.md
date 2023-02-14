@@ -32,4 +32,13 @@ Interesting stuff (solving real problems) happens at the mix of these 3 categori
 ## Lecture 1. Introduction to Machine Learning
 [Slides](https://github.com/sylvaticus/MITx_6.86x/blob/master/Unit%2001%20-%20Linear%20Classifiers%20and%20Generalizations/Slides%20lecture%2001.pdf)
 
-### 1.1. Unit 1 Overview
+### 1.5. A Concrete Example of a Supervised Learning Task
+
+Let's consider a movie recommender problem.
+I have a set of movies I've already seen (the **training set**), and I was to use the experience from those movies to make recommendations of whether I would like to see tens of thousands of other movies (the **test set**).
+
+We will compile a **feature vector** (a binary list of its characteristics.. genre, director, year..) for each movie in the training set as well for those I want to test (we will denote these feature vectors as $x$).
+
+
+Now I have the training set (feature vectors with associated labels), but I really wish to solve the task over the test set.
+It is this discrepancy that makes the learning task interesting. I wish to generalize what I extract from the training set and apply that information to the test set.
