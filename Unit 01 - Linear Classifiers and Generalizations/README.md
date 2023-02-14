@@ -28,3 +28,8 @@ The course covers these 3 topics
 - Objective is to control a system
 
 Interesting stuff (solving real problems) happens at the mix of these 3 categories.
+
+## Lecture 1. Introduction to Machine Learning
+[Slides](https://github.com/sylvaticus/MITx_6.86x/blob/master/Unit%2001%20-%20Linear%20Classifiers%20and%20Generalizations/Slides%20lecture%2001.pdf)
+
+### 1.1. Unit 1 Overview
