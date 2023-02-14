@@ -9,3 +9,6 @@
 `$ conda deactivate`
 
 `$ anaconda-navigator`
+
+Install Packages in Environment 
+`$ conda install numpy`
