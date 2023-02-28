@@ -19,6 +19,11 @@ In this project you will be implementing linear classifiers beginning with the P
 
 
 
-
-
 "In this problem, you will need to adapt this update rule to add a bias term () to the hypothesis, but take care not to penalize the magnitude of ."
+
+
+For this project, you will need the NumPy numerical toolbox, and the matplotlib plotting toolbox.
+
+* https://numpy.org/doc/stable/user/absolute_beginners.html
+* 
+* https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
