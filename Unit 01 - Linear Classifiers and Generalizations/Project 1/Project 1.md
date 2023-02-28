@@ -21,6 +21,7 @@ In this project you will be implementing linear classifiers beginning with the P
 
 "In this problem, you will need to adapt this update rule to add a bias term () to the hypothesis, but take care not to penalize the magnitude of ."
 
+# Setup Details:
 
 For this project, you will need the NumPy numerical toolbox, and the matplotlib plotting toolbox.
 
