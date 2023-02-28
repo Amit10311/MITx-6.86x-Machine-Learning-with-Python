@@ -26,5 +26,5 @@ In this project you will be implementing linear classifiers beginning with the P
 For this project, you will need the NumPy numerical toolbox, and the matplotlib plotting toolbox.
 
 * https://numpy.org/doc/stable/user/absolute_beginners.html
-* 
+
 * https://nbviewer.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
