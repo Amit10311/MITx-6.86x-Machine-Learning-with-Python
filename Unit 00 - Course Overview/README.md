@@ -13,3 +13,10 @@
 **Install Packages in Environment** 
 
 `$ conda install numpy`
+
+
+First do run these commands inside Terminal/CMD:
+
+`$ conda update anaconda-navigator  `
+`$ conda update navigator-updater    `
+
