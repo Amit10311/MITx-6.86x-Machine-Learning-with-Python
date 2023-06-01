@@ -17,6 +17,7 @@
 
 First do run these commands inside Terminal/CMD:
 
-`$ conda update anaconda-navigator  `
-`$ conda update navigator-updater    `
+`$ conda update anaconda-navigator `
+
+`$ conda update navigator-updater  `
 
