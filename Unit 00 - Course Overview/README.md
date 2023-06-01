@@ -21,3 +21,6 @@ First do run these commands inside Terminal/CMD:
 
 `$ conda update navigator-updater  `
 
+`$ conda install -c conda-forge opencv`
+
+
