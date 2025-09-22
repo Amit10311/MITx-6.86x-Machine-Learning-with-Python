@@ -184,8 +184,8 @@ dependencies:
    ```
 
 5) Update your env (remove teaserpp from YAML)
+   Edit calib.yml and delete the teaserpp-python line under pip:. Then sync the env:
 
-Edit calib.yml and delete the teaserpp-python line under pip:. Then sync the env:
    ```bash
    conda activate lidar-calib
    conda env update -n lidar-calib -f calib.yml --prune
