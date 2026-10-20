@@ -1,7 +1,6 @@
 # MITx-6.86x-Machine-Learning-with-Python 
 Machine Learning with Python | Linear Models to Deep Learning
 
-
 [![MITx: Statistics and Data Science MicroMasters](https://img.shields.io/badge/MITx-Statistics%20and%20Data%20Science%20MicroMasters-blue)](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
 
 > These are my notes taken during the course **MITx 6.86x** *"Machine Learning with Python: From Linear Models to Deep Learning"*, in Feb-May 2023.
@@ -52,3 +51,15 @@ Machine Learning with Python | Linear Models to Deep Learning
 Link: https://learning.edx.org/course/course-v1:MITx+6.86x+1T2023/home
 
 __Note__: _This repo includes code prepared by the course staff._  
+
+
+## For Learning More 
+**1. Mathematics for Machine Learning**
+- https://lnkd.in/djgDgD2b
+
+**2. Inria - Machine Learning in Python with scikit-learn**
+-  https://lms.fun-mooc.fr/courses/course-v1:inria+41026+session04/info
+
+**3. Google - Machine Learning Crash Course**
+- https://lnkd.in/d9F788k5
+
