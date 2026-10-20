@@ -50,6 +50,7 @@ Link: https://learning.edx.org/course/course-v1:MITx+6.86x+1T2023/home
 
 __Note__: _This repo includes code prepared by the course staff._  
 
+- Links: https://github.com/seq112215/edX-6.86x-machine-learning
 -----
 
 ## For Learning More 
