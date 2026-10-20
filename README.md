@@ -13,7 +13,7 @@ Machine Learning with Python | Linear Models to Deep Learning
    
 >  Project 1: Automatic Review Analyzer
 
-#### Unit 2 | **Nonlinear Classification, Linear regression, Collaborative Filtering**
+#### Unit 2 | **Nonlinear Classification, Linear Regression, Collaborative Filtering**
 * Lecture 05. Linear Regression 
 * Lecture 06. Nonlinear Classification 
 * Lecture 07. Recommender Systems 
@@ -24,7 +24,7 @@ Machine Learning with Python | Linear Models to Deep Learning
 
 #### Unit 3 | **Neural networks**
 * Lecture 08. Introduction to Feedforward Neural Networks
-* Lecture 09. Feedforward Neural Networks, Back Propagation, and Stochastic Gradient Descent (SGD)
+* Lecture 09. Feedforward Neural Networks, Backpropagation, and Stochastic Gradient Descent (SGD)
 * Lecture 10. Recurrent Neural Networks 1
 * Lecture 11. Recurrent Neural Networks 2
 * Lecture 12. Convolutional Neural Networks
@@ -46,16 +46,19 @@ Machine Learning with Python | Linear Models to Deep Learning
 
 > Project: Project 5: Text-Based Game
   
----
-  
 Link: https://learning.edx.org/course/course-v1:MITx+6.86x+1T2023/home
 
 __Note__: _This repo includes code prepared by the course staff._  
 
+-----
 
 ## For Learning More 
-**1. Mathematics for Machine Learning**
+
+**1. Mathematics for Machine Learning - Book**
 - https://lnkd.in/djgDgD2b
+  
+**1.1. Mathematics for Machine Learning: Linear Algebra**
+- https://www.coursera.org/learn/linear-algebra-machine-learning/home/welcome
 
 **2. Inria - Machine Learning in Python with scikit-learn**
 -  https://lms.fun-mooc.fr/courses/course-v1:inria+41026+session04/info
